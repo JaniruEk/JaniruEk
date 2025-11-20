@@ -11,7 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=JaniruEk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JaniruEk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaniruEk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🕹️ My GitHub Activity Snake
 
+<p align="center">
+  <img src="https://github.com/JaniruEk/JaniruEk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%; height: auto;"/>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JaniruEk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
